@@ -9,4 +9,7 @@ Progwisession - https://github.com/progwi0/progwisession
 
 **Most recommended WM is [Metacity]([https://github.com/nikolas/evilwm](https://github.com/GNOME/metacity)).**
 
-**ProgwiDE tested only on Debian 13. So i can't guarantee good support on other distros.**
+### Tested OS:
+![Static Badge](https://img.shields.io/badge/Debian%20(trixie)%20-%20Works!%20-%20default?logo=debian)
+
+**I can't guarantee good support on distros that not in this list.**
